@@ -51,7 +51,7 @@ The 2nd assingment was the mount. The mount is a piece very simalair to the base
  [The mount in OnShape] (https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/9e45f584e32edf07e1ff7c480
 
 ### Image
-![The Mount](images/Mount.png)
+![The Mount](images/Mount.png =150x150)
 ### Reflection
 
 ---
