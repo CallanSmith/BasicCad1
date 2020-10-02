@@ -53,7 +53,7 @@ The 2nd assingment was the mount. The mount is a piece very simalair to the base
 ### Image
 ![The Mount](images/Mount.png)
 
-<img src"images/Mount.png" alt="the mount" width="128" height="128">
+<img src="images/Mount.png" alt="The Mount" width="200">
 ### Reflection
 
 ---
