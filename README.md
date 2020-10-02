@@ -55,13 +55,14 @@ The 2nd assingment was the mount. The mount is a piece very simalair to the base
 <img src="images/Mount.png" alt="The Mount" width="200">
 ### Reflection
 
+This was the 2nd CAD assingment we've had, and for me it was the easiest. By following what Mr H. did in class iw was able to figure that you didnt have to create another document to do this part. All you have to do is, sketch a sqaure on top of your base and make sure that the upper left hand corner is connected to the base upper left hand corner. From there make the dimensions 120mm by 120mm and make sure it lines up wiht you base. Use the use featture to select the circles you created for the base. After that, all you have to do is press extrude, and click new. Extrude to 8mm and youll be done.
 ---
 
 
 ## Fork
 
 ### Description
-
+The fork was the 3rd assingment we had to do for BasicCad.
 ### Evidence
 
 ### Image
