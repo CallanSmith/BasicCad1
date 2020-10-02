@@ -67,7 +67,7 @@ The fork was the 3rd assingment we had to do for BasicCad. So far this was the h
  [The fork in Onshape](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/159694f729794642a4784491)
 ### Image
 
-<img src="images/fork.png" alt="The Fork" width="200">
+<img src="images/Fork.png" alt="The Fork" width="200">
 ### Reflection
 I thought this was going to be harder than it was. I got a little confused just following the directions, the video by Dr. Shields helped tremendously. https://www.youtube.com/channel/UCaL7ijtuZI4C2F8Vdg-R4fQ. The hardest part of this assingment was getting the mirror to work. If figured out you have to select the plane parallel to where you want to mirror, to get it to mirror in the correct place.
 
