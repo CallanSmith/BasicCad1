@@ -77,13 +77,14 @@ I thought this was going to be harder than it was. I got a little confused just 
 ## Tire
 
 ### Description
-
+The tire was the 4th basic cad assigment. To begin this assingment we mad a trapizoid using dimensions and symetric edits. The bottom line was 20 mms long,and the top was 15.47 mm long. the two sides were symetric and equal. After I made the trapazoid, all i had to do was revolve the tire around a horizantol construction line.
 ### Evidence
-
+[The Tire in OnShape](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/e8488e5b089133b3221f72db)
 ### Image
-r
+<img src="images/Tire.png" alt="The Tire" width="200">
 ### Reflection
 
+This time, I went completly off of the video by Dr. Sheilds.https://www.youtube.com/watch?v=ReEGioIYSus&feature=emb_title. This made it very easy to complete thos assingment. The hardest part was making the trapizoid, becasue at first I didnt have the two construntion lines. So I had to make sure to have the vertical and horizontal constrution lines.
 ---
 
 
