@@ -91,24 +91,29 @@ This time, I went completly off of the video by Dr. Sheilds.https://www.youtube.
 ## Wheel
 
 ### Description
-
+The wheel is the 5th assingment for BasicCad. This to me was the hardest assingment. It is somewhat simalair to the tire. You first create and I shaped firgure. Using different dimensions and realtions from the video you get it to be the size you want. After that you revolve it around a horizantal constructipn line. Finally you make one rivet, and with a circular patter you make 5 going around the whole wheel.
 ### Evidence
-r
+[The wheel in onshape](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/05de034279c5cb281656371f)
 ### Image
+
+<img src="images/WHEEL.png" alt="The Wheel" width="200">
 
 ### Reflection
 
+This was definitely the hardest assingment so far. You learn a bunch of new relations, and making the first I shape was hard. Watching this video buy Dr. Shields helped a lot. https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_title
 ---
 
 
 ## AxleCollarBearings
-
 ### Description
+The AxleCollarBearing were three differnt mini assingments. The axle was definitely the hardest. The assingment is to make a cylinder with two little divits on each side for a screw. The Collar was very straight forward for the most part. The bearing was just two circles extruded.
 
 ### Evidence
-
+[Axle and Collar](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/c5340d4fbef8155c7774ff45)
+[Bearing](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/bc021fa92b46189497a12cc5)
 ### Image
-h
+<img src="images/AXle.png" alt="The Axle and collar" width="200">
+<img src="images/BigBearing.png" alt="Big Bearing" width="200">
 ### Reflection
-
+The axle was the hardest assingment. I struggled with the divet you make. I figured out that the line I was using the make the divit was only 4 mm from the origin, when it should of been 5. I ran into a problem with the collar when I was making the hole in it. I though that the was supposed to be on the collar itself. I realized that it should of been on the front plane instead. This video helped me make all three parts. https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title
 ---
