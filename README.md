@@ -117,3 +117,8 @@ The AxleCollarBearing were three differnt mini assingments. The axle was definit
 ### Reflection
 The axle was the hardest assingment. I struggled with the divet you make. I figured out that the line I was using the make the divit was only 4 mm from the origin, when it should of been 5. I ran into a problem with the collar when I was making the hole in it. I though that the was supposed to be on the collar itself. I realized that it should of been on the front plane instead. This video helped me make all three parts. https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title
 ---
+
+
+## Assembly
+
+### Description
