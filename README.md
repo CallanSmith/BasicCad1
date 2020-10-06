@@ -126,7 +126,7 @@ Assembly was the final assingmeant of BasicCad. I wasnt building anything new, I
 ### Evidence
 [Assembly](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/a547bf99351b6752572cf328)
 ### Image
-
+<img src="images/Assembly.png" alt="The Assembly" width="200">
 ### Refelction
-
+This part of the assingement was the hardest for me. The revolute, and fasten mates were pretty straight forward. I struggled with the parallel mate. I figured out that you had to turn either your bearing, or your axle, before you mate it. This helped me finish it. Inserting the screws was easy as long as you make sure that you insert the right size.
 
