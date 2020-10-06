@@ -122,3 +122,11 @@ The axle was the hardest assingment. I struggled with the divet you make. I figu
 ## Assembly
 
 ### Description
+Assembly was the final assingmeant of BasicCad. I wasnt building anything new, I was just putting every thing together. You connect the the fork, axle, wheel, and bearings using a revolute mate. You then have to connect you big bearings to your axle using a parallel mate. Finally you have to insert different screws and bolts to fasten everything together.
+### Evidence
+[Assembly](https://cvilleschools.onshape.com/documents/3a1bdd5c1be5c6a7f58a26c6/w/18f88a2d3e38a38b8f6c130f/e/a547bf99351b6752572cf328)
+### Image
+
+### Refelction
+
+
