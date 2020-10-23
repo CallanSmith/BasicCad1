@@ -130,3 +130,12 @@ Assembly was the final assingmeant of BasicCad. I wasnt building anything new, I
 ### Refelction
 This part of the assingement was the hardest for me. The revolute, and fasten mates were pretty straight forward. I struggled with the parallel mate. I figured out that you had to turn either your bearing, or your axle, before you mate it. This helped me finish it. Inserting the screws was easy as long as you make sure that you insert the right size.
 
+## Dorthys Dowels
+
+### Description
+
+### Evidence
+
+### Image
+<img src="images/Dortys dowels.png" alt="Dorthys Dowels" width="200">
+### Reflection
