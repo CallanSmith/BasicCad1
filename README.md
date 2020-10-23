@@ -133,9 +133,10 @@ This part of the assingement was the hardest for me. The revolute, and fasten ma
 ## Dorthys Dowels
 
 ### Description
-
+Dorhtys dowels was a 2 part assingnment. You first had to make the dowels, by leartning how to configurations. Then, using the dowels you had to make a picture frame by assembling 2 different trapiziods. The dowels were hard to make because I had to learn how to use configurations. For the trapizoids you had to make a 45 degree angle, and make the sides 12 in and 13 in.
 ### Evidence
-
+[Dorhtys Dowels](https://cvilleschools.onshape.com/documents/8d749bd0be888c388ca1631f/w/8b56bd4dce772baf47c8d0f7/e/11e8bb73e7e44664da575963)
 ### Image
 <img src="images/Dortys dowels.png" alt="Dorthys Dowels" width="200">
 ### Reflection
+During this assignment (https://cvilleschools.instructure.com/courses/31063/assignments/288835?module_item_id=91828) this video helped a lot on learning how to do theconfigurations. At first, I didnt realise how many holes I needed to make in the trapizoid, then i realized I needed to make 4.
