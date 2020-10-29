@@ -149,5 +149,5 @@ This was an assingment to make a french press type model. We were split into gro
 [Collaboration Challenge](https://cvilleschools.onshape.com/documents/f7ab99036a5e46ca6af906c9/w/fd5d0b50bf86873da396b0cd/e/a0dbe6240893d3a7d9219374)
 ### Image
 <img src="images/Collab Challenge.png" alt="Collaboration Challenge" width="200">
-### Reflection
+ ### Reflection
 This assingemtn was pretty easy. The hardest part was communication between group mates. We figured it out by communacating in class. For the proportions I just tried to make it as proportional to the picture as possible.
