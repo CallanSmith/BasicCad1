@@ -140,3 +140,11 @@ Dorhtys dowels was a 2 part assingnment. You first had to make the dowels, by le
 <img src="images/Dortys dowels.png" alt="Dorthys Dowels" width="200">
 ### Reflection
 During this assignment (https://cvilleschools.instructure.com/courses/31063/assignments/288835?module_item_id=91828) this video helped a lot on learning how to do theconfigurations. At first, I didnt realise how many holes I needed to make in the trapizoid, then i realized I needed to make 4.
+
+## Collaboration Challenge
+
+### Description
+This was an assingment to make a french press type model. We were split into groups of 3, and we split the parts we had to made into 3. The parts I desinged, was the top hat piece, and the big cylinder. This assingment had no set dimensions, so I made the cylinder 250mm tall and the top hat piece 52 mm tall. I also made the fork which was 50 mm tall
+### Evidence
+[Collaboration Challenge](https://cvilleschools.onshape.com/documents/f7ab99036a5e46ca6af906c9/w/fd5d0b50bf86873da396b0cd/e/a0dbe6240893d3a7d9219374)
+### Image
